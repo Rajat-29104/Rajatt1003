@@ -1,10 +1,10 @@
 # Hi 👋, I'm Rajat Tailor
 
 🎓 Computer Science Student
-💻 Learning Programming and Data Structures
-🚀 Interested in Software Development
+- Learning Programming and Data Structures
+- Interested in Software Development
 
-## 🔧 Skills
+## Skills
 
 * C Programming
 * Java
