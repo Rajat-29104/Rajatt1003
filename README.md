@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=RAJAT%20TAILOR&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=CSE%20STUDENT%20%7C%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descSize=18&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=RAJAT%20TAILOR&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=CSE%20STUDENT%20%7C%20DEVELOPER%20%7C%20AI%2FML&descSize=18&descAlignY=62&descAlign=50" width="100%"/>
 
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Ideas+Into+Working+Projects;Exploring+Artificial+Intelligence+%26+Machine+Learning;Learning+Data+Science+One+Project+At+A+Time;Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Repeat" />
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Rajat-29104&label=PROFILE+VIEWS&color=302b63&style=for-the-badge" />
 
@@ -47,9 +47,9 @@ I'm a Computer Science student who enjoys **building things, solving problems, a
 
 ---
 
-<!-- ======================= TECH ======================= -->
+<!-- ======================= TECH STACK ======================= -->
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 ### 💻 Languages
 
@@ -69,7 +69,7 @@ I'm a Computer Science student who enjoys **building things, solving problems, a
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
-### 🛠️ Development Tools
+### 🛠️ Development & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,nodejs,html,css" />
@@ -180,36 +180,6 @@ Data analysis project focused on exploring employee data and extracting useful i
 
 ---
 
-<!-- ======================= ACTIVITY ======================= -->
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-<!-- ======================= CERTIFICATIONS ======================= -->
-
-## 🏆 Certifications
-
-<div align="center">
-
-| 🎓 Certification | 🏢 Platform |
-|:---|:---|
-| Data Structures & Algorithms | NPTEL |
-| Cloud Foundation Associate | Oracle |
-| C Programming | Infosys |
-| Career Edge | TCS iON |
-| C Programming | IIT Spoken Tutorial |
-
-</div>
-
----
-
 <!-- ======================= CONNECT ======================= -->
 
 ## 🌐 Let's Connect
@@ -238,7 +208,7 @@ Data analysis project focused on exploring employee data and extracting useful i
 
 ### 💭
 
-**"Build something. Break something. Learn something."**
+**"Build something. Learn something."**
 
 <br>
 
