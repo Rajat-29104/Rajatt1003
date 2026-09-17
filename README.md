@@ -164,8 +164,8 @@ Data analysis project focused on exploring employee data and extracting useful i
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/Rajat-29104/Rajat-29104/output/github-snake.gif"
-  alt="GitHub Contribution Snake"
+  src="https://raw.githubusercontent.com/Rajat-29104/Rajat-29104/output/github-snake-dark.svg"
+  alt="Rajat's Contribution Snake"
   width="100%"
 />
 
