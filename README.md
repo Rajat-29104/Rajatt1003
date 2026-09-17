@@ -1,23 +1,30 @@
+<!-- ========================================================= -->
+<!--                        HERO                               -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:12002F,50:3B0764,100:7C3AED&text=RAJAT%20TAILOR&fontSize=55&fontColor=FFFFFF&fontAlignY=42&animation=twinkling"/>
-
-### `CSE` · `AI/ML` · `DATA SCIENCE` · `DEVELOPER`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Building+ideas+into+working+projects;Exploring+AI%2FML+%26+Data+Science;Solving+problems+with+code;Always+learning+%E2%80%A2+Always+building"/>
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B0014,45:240046,75:5A189A,100:9D4EDD&text=RAJAT%20TAILOR&fontSize=58&fontColor=FFFFFF&fontAlignY=42&animation=twinkling"/>
 
 <br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=C084FC&center=true&vCenter=true&width=760&lines=Computer+Science+Student;Data+Science+%7C+Software+Development;Building+Ideas+Into+Working+Projects;Code+%E2%80%A2+Build+%E2%80%A2+Improve"
+alt="Typing Animation"/>
+
+<br><br>
 
 <a href="https://github.com/Rajat-29104">
-<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0B0014?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/rajat-tailor">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/LinkedIn-0B0014?style=for-the-badge&logo=linkedin&logoColor=C084FC"/>
 </a>
-&nbsp;
+
 <a href="mailto:rajatt1003@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/Gmail-0B0014?style=for-the-badge&logo=gmail&logoColor=C084FC"/>
 </a>
 
 </div>
@@ -26,57 +33,96 @@
 
 ---
 
-## `01` — About
-
-> **Computer Science student building software, data-driven applications
-> and AI-powered solutions.**
-
-I'm currently pursuing **B.Tech in Computer Science & Engineering** and
-enjoy turning ideas into practical projects.
-
-My interests span **Data Science, AI/ML, DSA and Software Development**.
-
-<br>
+<!-- ========================================================= -->
+<!--                       ABOUT                                -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-`C / C++` &nbsp; `Python` &nbsp; `Java` &nbsp; `JavaScript`  
-`DSA` &nbsp; `SQL` &nbsp; `MySQL` &nbsp; `MongoDB`  
-`Git` &nbsp; `GitHub` &nbsp; `VS Code` &nbsp; `Jupyter`
-
-</div>
-
----
-
-## `02` — Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,nodejs,html,css" />
+## `01` &nbsp; ABOUT ME
 
 </div>
 
 <br>
 
-### Data & Problem Solving
+<table>
+<tr>
 
-`DSA` · `Algorithms` · `Pandas` · `NumPy` · `SQL` · `Power BI`
+<td width="65%" valign="top">
 
-### Computer Science
+### 👨‍💻 Computer Science • Developer
 
-`OOP` · `DBMS` · `Operating Systems` · `Computer Networks`
+I'm a **B.Tech Computer Science & Engineering student** who enjoys
+building practical software, working with data, and solving problems
+through code.
+
+My development journey revolves around **Data Science, DSA,
+software development, databases and real-world projects.**
+
+<br>
+
+**Currently focused on**
+
+`Data Science` · `DSA` · `Software Development` · `SQL`
+
+</td>
+
+<td width="35%" align="center">
+
+<img
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+width="280"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 ---
 
-## `03` — Projects
+<!-- ========================================================= -->
+<!--                     TECH STACK                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## `02` &nbsp; TECH STACK
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,git,github,vscode,jupyter"/>
+
+<br><br>
+
+`DSA` &nbsp; `OOP` &nbsp; `DBMS` &nbsp; `SQL` &nbsp; `Pandas` &nbsp; `NumPy` &nbsp; `Power BI`
+
+</div>
+
+<br>
+
+---
+
+<!-- ========================================================= -->
+<!--                       PROJECTS                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## `03` &nbsp; SELECTED PROJECTS
+
+</div>
+
+<br>
 
 <table>
 <tr>
@@ -87,10 +133,10 @@ My interests span **Data Science, AI/ML, DSA and Software Development**.
 
 **AI Civic Empowerment & Legal Guide**
 
-An AI-powered platform designed to make civic information,
+A platform designed to make civic information,
 government schemes and legal guidance easier to understand.
 
-**Includes**
+**Features**
 
 `Rights Navigator`  
 `Scheme Eligibility`  
@@ -98,14 +144,14 @@ government schemes and legal guidance easier to understand.
 `Complaint Guidance`  
 `Legal Guidance`
 
-**Built with**
+**Stack**
 
 `Java` · `MySQL` · `Node.js` · `Gemini API`
 
 <br>
 
 <a href="https://nyayasetu-xtpc.onrender.com/">
-<img src="https://img.shields.io/badge/Live%20Project-%23C084FC?style=flat-square&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-9D4EDD?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </td>
@@ -114,21 +160,25 @@ government schemes and legal guidance easier to understand.
 
 ### 🚌 Real-Time Bus Tracking
 
-**Smart India Hackathon Project**
+**Smart Transportation System**
 
-A GPS-based system designed for real-time bus tracking,
-ETA information and communication with users.
+GPS-based real-time bus tracking system designed
+for transportation monitoring and communication.
 
-**Highlights**
+**Features**
 
 `GPS Tracking`  
 `Real-Time Location`  
 `ETA Logic`  
 `SMS Alerts`
 
-**Built with**
+**Stack**
 
 `ESP32` · `GPS` · `SIM800L`
+
+<br>
+
+`Smart India Hackathon Project`
 
 </td>
 
@@ -140,19 +190,19 @@ ETA information and communication with users.
 
 ### 📚 Library Management System
 
-**Java + Database Application**
+**Java Database Application**
 
-A database-driven application for managing library
-operations and transactions.
+A database-driven application for managing
+books, students and library transactions.
 
-**Highlights**
+**Features**
 
 `Student Management`  
 `Book Management`  
 `Issue / Return`  
 `Database Operations`
 
-**Built with**
+**Stack**
 
 `Java` · `MySQL` · `JDBC`
 
@@ -160,12 +210,12 @@ operations and transactions.
 
 <td width="50%" valign="top">
 
-### 🌱 Environmental Monitoring System
+### 🌱 Environmental Monitoring
 
 **IoT / ESP32**
 
-A portable environmental monitoring system capable of
-collecting air-quality and temperature/humidity data.
+Portable environmental monitoring system for
+air-quality and temperature/humidity measurements.
 
 **Hardware**
 
@@ -176,45 +226,154 @@ collecting air-quality and temperature/humidity data.
 </tr>
 </table>
 
+<br>
+
 ---
 
-## `04` — What I Work With
+<!-- ========================================================= -->
+<!--                    DEVELOPMENT                             -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-| Area | Technologies |
-|:---|:---|
-| **Programming** | C · C++ · Python · Java · JavaScript |
-| **Data** | Pandas · NumPy · SQL · Power BI |
-| **Databases** | MySQL · MongoDB · SQLite |
-| **Development** | Git · GitHub · VS Code · Jupyter |
-| **Core CS** | DSA · OOP · DBMS · OS · Networks |
-| **IoT** | ESP32 · Arduino · GPS · GSM |
+## `04` &nbsp; DEVELOPMENT
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 💡
+
+**Problem Solving**
+
+DSA  
+Algorithms  
+Logical Thinking
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️
+
+**Building**
+
+Applications  
+Data Projects  
+Real-world Systems
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔍
+
+**Exploring**
+
+Data  
+Software  
+Technology
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
+<br>
+
 ---
 
-## `05` — Contribution Activity
+<!-- ========================================================= -->
+<!--                 CONTRIBUTION SNAKE                         -->
+<!-- ========================================================= -->
 
 <div align="center">
+
+## `05` &nbsp; CONTRIBUTIONS
+
+<br>
 
 <img
 src="https://raw.githubusercontent.com/Rajat-29104/Rajat-29104/output/github-contribution-grid-snake-dark.svg"
 width="100%"
-alt="Rajat's GitHub Contribution Snake"
-/>
+alt="Rajat's GitHub Contribution Snake"/>
 
 </div>
 
+<br>
+
 ---
 
-## `06` — Currently Building
+<!-- ========================================================= -->
+<!--                     GITHUB                                 -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-```text
-AI / ML        █████████████████░░░
-DATA SCIENCE   ████████████████░░░░
-DSA            █████████████████░░░
-SOFTWARE       ██████████████████░░
+## `06` &nbsp; GITHUB
+
+<br>
+
+<a href="https://github.com/Rajat-29104">
+<img
+src="https://github-readme-stats.vercel.app/api?username=Rajat-29104&show_icons=true&hide_border=true&bg_color=0B0014&title_color=C084FC&icon_color=C084FC&text_color=FFFFFF&rank_icon=github"
+width="49%"/>
+</a>
+
+<a href="https://github.com/Rajat-29104">
+<img
+src="https://streak-stats.demolab.com?user=Rajat-29104&hide_border=true&background=0B0014&ring=C084FC&fire=9D4EDD&currStreakLabel=C084FC&sideLabels=FFFFFF&dates=AAAAAA"
+width="49%"/>
+</a>
+
+</div>
+
+<br>
+
+---
+
+<!-- ========================================================= -->
+<!--                      CONNECT                               -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## `07` &nbsp; LET'S CONNECT
+
+<br>
+
+<a href="https://github.com/Rajat-29104">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rajat-tailor">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rajatt1003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<sub>Building • Learning • Improving</sub>
+
+</div>
+
+<br><br>
+
+<!-- ========================================================= -->
+<!--                       FOOTER                               -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:9D4EDD,45:5A189A,75:240046,100:0B0014&section=footer&animation=twinkling"/>
+
+</div>
