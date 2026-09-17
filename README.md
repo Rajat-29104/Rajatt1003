@@ -2,7 +2,7 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:08000F,50:1A0B2E,100:6D28D9&text=RAJAT%20TAILOR&fontSize=58&fontColor=FFFFFF&fontAlignY=42&animation=twinkling&desc=Computer%20Science%20%7C%20Software%20Development%20%7C%20Data%20Science&descSize=17&descAlignY=63"
+  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:08000F,50:1A0B2E,100:6D28D9&text=RAJAT%20TAILOR&fontSize=58&fontColor=FFFFFF&fontAlignY=42&animation=twinkling&desc=Computer%20Science%20%7C%20SDevelopment%20%7C%20Data%20Science&descSize=17&descAlignY=63"
 />
 
 <br>
@@ -41,7 +41,7 @@ problems — from database applications and data analysis to embedded
 systems and intelligent applications.
 
 Currently working with **Python, C++, Java, SQL and JavaScript**, while
-strengthening my foundations in **DSA, databases and software development**.
+strengthening my foundations in **DSA, databases and development**.
 
 <br>
 
