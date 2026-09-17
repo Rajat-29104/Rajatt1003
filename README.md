@@ -20,6 +20,7 @@
 
 <table>
 <tr>
+
 <td width="60%">
 
 I'm a Computer Science student who enjoys **building things, solving problems, and learning through hands-on development.**
@@ -38,6 +39,7 @@ I'm a Computer Science student who enjoys **building things, solving problems, a
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -78,6 +80,7 @@ I'm a Computer Science student who enjoys **building things, solving problems, a
 ## 🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -135,6 +138,13 @@ Smart transportation system designed for real-time bus tracking.
 
 Desktop application for managing library operations.
 
+<b>Features</b>
+
+- 👤 Student Management
+- 📚 Book Management
+- 🔄 Issue & Return
+- 🗄️ Database Integration
+
 <b>Stack</b>
 
 `Java` `Swing` `JDBC` `SQLite`
@@ -147,6 +157,13 @@ Desktop application for managing library operations.
 
 Data analysis project focused on exploring employee data and extracting useful insights.
 
+<b>Analysis</b>
+
+- 📈 Data Exploration
+- 📊 Visualization
+- 🔎 Pattern Analysis
+- 💡 Insight Extraction
+
 <b>Stack</b>
 
 `Python` `Pandas` `NumPy` `Matplotlib`
@@ -154,40 +171,18 @@ Data analysis project focused on exploring employee data and extracting useful i
 </td>
 
 </tr>
+
 </table>
 
 ---
----
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Rajat-29104/Rajat-29104/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Rajat-29104/Rajat-29104/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/Rajat-29104/Rajat-29104/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-
-</picture>
-
-</div>
 <!-- ======================= CONNECT ======================= -->
 
 ## 🌐 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rajat-tailor-5322a3355/">
+<a href="https://www.linkedin.com/in/rajat-tailor">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -205,11 +200,13 @@ Data analysis project focused on exploring employee data and extracting useful i
 
 ---
 
+<!-- ======================= FOOTER ======================= -->
+
 <div align="center">
 
 ### 💭
 
-**"Build something. Break something. Learn something."**
+**"Build something. Learn something."**
 
 <br>
 
