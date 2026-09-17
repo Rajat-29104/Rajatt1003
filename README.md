@@ -1,30 +1,28 @@
-<!-- ========================================================= -->
-<!--                        HERO                               -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B0014,45:240046,75:5A189A,100:9D4EDD&text=RAJAT%20TAILOR&fontSize=58&fontColor=FFFFFF&fontAlignY=42&animation=twinkling"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:08000F,50:1A0B2E,100:6D28D9&text=RAJAT%20TAILOR&fontSize=58&fontColor=FFFFFF&fontAlignY=42&animation=twinkling&desc=Computer%20Science%20%7C%20Software%20Development%20%7C%20Data%20Science&descSize=17&descAlignY=63"
+/>
 
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=C084FC&center=true&vCenter=true&width=760&lines=Computer+Science+Student;Data+Science+%7C+Software+Development;Building+Ideas+Into+Working+Projects;Code+%E2%80%A2+Build+%E2%80%A2+Improve"
-alt="Typing Animation"/>
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1100&color=B983FF&center=true&vCenter=true&width=760&lines=Building+practical+software+from+ideas;Working+with+data%2C+systems+and+code;Always+curious.+Always+building."
+/>
 
 <br><br>
 
 <a href="https://github.com/Rajat-29104">
-<img src="https://img.shields.io/badge/GitHub-0B0014?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white">
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/rajat-tailor">
-<img src="https://img.shields.io/badge/LinkedIn-0B0014?style=for-the-badge&logo=linkedin&logoColor=C084FC"/>
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=B983FF">
 </a>
-
+&nbsp;
 <a href="mailto:rajatt1003@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0B0014?style=for-the-badge&logo=gmail&logoColor=C084FC"/>
+  <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=B983FF">
 </a>
 
 </div>
@@ -33,152 +31,92 @@ alt="Typing Animation"/>
 
 ---
 
-<!-- ========================================================= -->
-<!--                       ABOUT                                -->
-<!-- ========================================================= -->
+### About
 
-<div align="center">
+I'm a Computer Science student interested in **software development,
+data science and problem solving**.
 
-## `01` &nbsp; ABOUT ME
+I enjoy building projects that connect programming with real-world
+problems — from database applications and data analysis to embedded
+systems and intelligent applications.
 
-</div>
-
-<br>
-
-<table>
-<tr>
-
-<td width="65%" valign="top">
-
-### 👨‍💻 Computer Science • Developer
-
-I'm a **B.Tech Computer Science & Engineering student** who enjoys
-building practical software, working with data, and solving problems
-through code.
-
-My development journey revolves around **Data Science, DSA,
-software development, databases and real-world projects.**
-
-<br>
-
-**Currently focused on**
-
-`Data Science` · `DSA` · `Software Development` · `SQL`
-
-</td>
-
-<td width="35%" align="center">
-
-<img
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-width="280"/>
-
-</td>
-
-</tr>
-</table>
+Currently working with **Python, C++, Java, SQL and JavaScript**, while
+strengthening my foundations in **DSA, databases and software development**.
 
 <br>
 
 ---
 
-<!-- ========================================================= -->
-<!--                     TECH STACK                             -->
-<!-- ========================================================= -->
+### Technologies
 
 <div align="center">
 
-## `02` &nbsp; TECH STACK
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,nodejs" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,nodejs,git,github,vscode,jupyter"/>
-
-<br><br>
-
-`DSA` &nbsp; `OOP` &nbsp; `DBMS` &nbsp; `SQL` &nbsp; `Pandas` &nbsp; `NumPy` &nbsp; `Power BI`
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,html,css" />
 
 </div>
 
 <br>
+
+<p align="center">
+Pandas &nbsp;·&nbsp; NumPy &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Power BI
+&nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; DBMS
+</p>
 
 ---
 
-<!-- ========================================================= -->
-<!--                       PROJECTS                             -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-## `03` &nbsp; SELECTED PROJECTS
-
-</div>
-
-<br>
+### Selected Work
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### ⚖️ NyayaSetu
+<h3>NyayaSetu</h3>
 
-**AI Civic Empowerment & Legal Guide**
+AI-powered civic empowerment and legal guidance platform.
 
-A platform designed to make civic information,
-government schemes and legal guidance easier to understand.
-
-**Features**
-
-`Rights Navigator`  
-`Scheme Eligibility`  
-`RTI Drafting`  
-`Complaint Guidance`  
-`Legal Guidance`
-
-**Stack**
-
-`Java` · `MySQL` · `Node.js` · `Gemini API`
+Designed to simplify access to information around rights,
+government schemes, RTI and civic complaints.
 
 <br>
+
+<code>Java</code>
+<code>MySQL</code>
+<code>Node.js</code>
+<code>Gemini API</code>
+
+<br><br>
 
 <a href="https://nyayasetu-xtpc.onrender.com/">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-9D4EDD?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white">
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚌 Real-Time Bus Tracking
+<h3>Real-Time Bus Tracking</h3>
 
-**Smart Transportation System**
-
-GPS-based real-time bus tracking system designed
-for transportation monitoring and communication.
-
-**Features**
-
-`GPS Tracking`  
-`Real-Time Location`  
-`ETA Logic`  
-`SMS Alerts`
-
-**Stack**
-
-`ESP32` · `GPS` · `SIM800L`
+GPS-based transportation tracking system developed around
+real-time location monitoring and communication.
 
 <br>
 
-`Smart India Hackathon Project`
+<code>ESP32</code>
+<code>GPS</code>
+<code>SIM800L</code>
+
+<br><br>
+
+Smart India Hackathon project
 
 </td>
 
@@ -188,38 +126,31 @@ for transportation monitoring and communication.
 
 <td width="50%" valign="top">
 
-### 📚 Library Management System
+<h3>Library Management System</h3>
 
-**Java Database Application**
+Java-based database application for managing books,
+students and library transactions.
 
-A database-driven application for managing
-books, students and library transactions.
+<br>
 
-**Features**
-
-`Student Management`  
-`Book Management`  
-`Issue / Return`  
-`Database Operations`
-
-**Stack**
-
-`Java` · `MySQL` · `JDBC`
+<code>Java</code>
+<code>MySQL</code>
+<code>JDBC</code>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌱 Environmental Monitoring
+<h3>Environmental Monitoring System</h3>
 
-**IoT / ESP32**
+ESP32-based monitoring system for air quality,
+temperature and humidity.
 
-Portable environmental monitoring system for
-air-quality and temperature/humidity measurements.
+<br>
 
-**Hardware**
-
-`ESP32` · `MQ-135` · `DHT22`
+<code>ESP32</code>
+<code>MQ-135</code>
+<code>DHT22</code>
 
 </td>
 
@@ -230,78 +161,15 @@ air-quality and temperature/humidity measurements.
 
 ---
 
-<!-- ========================================================= -->
-<!--                    DEVELOPMENT                             -->
-<!-- ========================================================= -->
+### Contributions
 
 <div align="center">
-
-## `04` &nbsp; DEVELOPMENT
-
-<br>
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### 💡
-
-**Problem Solving**
-
-DSA  
-Algorithms  
-Logical Thinking
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚙️
-
-**Building**
-
-Applications  
-Data Projects  
-Real-world Systems
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔍
-
-**Exploring**
-
-Data  
-Software  
-Technology
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
----
-
-<!-- ========================================================= -->
-<!--                 CONTRIBUTION SNAKE                         -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-## `05` &nbsp; CONTRIBUTIONS
-
-<br>
 
 <img
-src="https://raw.githubusercontent.com/Rajat-29104/Rajat-29104/output/github-contribution-grid-snake-dark.svg"
-width="100%"
-alt="Rajat's GitHub Contribution Snake"/>
+  src="https://raw.githubusercontent.com/Rajat-29104/Rajat-29104/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="GitHub contribution graph"
+/>
 
 </div>
 
@@ -309,26 +177,20 @@ alt="Rajat's GitHub Contribution Snake"/>
 
 ---
 
-<!-- ========================================================= -->
-<!--                     GITHUB                                 -->
-<!-- ========================================================= -->
-
 <div align="center">
-
-## `06` &nbsp; GITHUB
-
-<br>
 
 <a href="https://github.com/Rajat-29104">
 <img
-src="https://github-readme-stats.vercel.app/api?username=Rajat-29104&show_icons=true&hide_border=true&bg_color=0B0014&title_color=C084FC&icon_color=C084FC&text_color=FFFFFF&rank_icon=github"
-width="49%"/>
+  src="https://github-readme-stats.vercel.app/api?username=Rajat-29104&show_icons=true&hide_border=true&bg_color=08000F&title_color=B983FF&icon_color=B983FF&text_color=FFFFFF"
+  height="165"
+/>
 </a>
 
 <a href="https://github.com/Rajat-29104">
 <img
-src="https://streak-stats.demolab.com?user=Rajat-29104&hide_border=true&background=0B0014&ring=C084FC&fire=9D4EDD&currStreakLabel=C084FC&sideLabels=FFFFFF&dates=AAAAAA"
-width="49%"/>
+  src="https://streak-stats.demolab.com?user=Rajat-29104&hide_border=true&background=08000F&ring=B983FF&fire=8B5CF6&currStreakLabel=B983FF&sideLabels=FFFFFF&dates=888888"
+  height="165"
+/>
 </a>
 
 </div>
@@ -337,43 +199,23 @@ width="49%"/>
 
 ---
 
-<!-- ========================================================= -->
-<!--                      CONNECT                               -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-## `07` &nbsp; LET'S CONNECT
-
-<br>
-
-<a href="https://github.com/Rajat-29104">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rajat-tailor">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rajatt1003@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://github.com/Rajat-29104">GitHub</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rajat-tailor">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:rajatt1003@gmail.com">Email</a>
 
 <br><br>
 
-<sub>Building • Learning • Improving</sub>
+<sub>Thanks for stopping by.</sub>
 
 </div>
 
-<br><br>
+<br>
 
-<!-- ========================================================= -->
-<!--                       FOOTER                               -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:9D4EDD,45:5A189A,75:240046,100:0B0014&section=footer&animation=twinkling"/>
-
-</div>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6D28D9,50:1A0B2E,100:08000F&section=footer&animation=twinkling"
+/>
