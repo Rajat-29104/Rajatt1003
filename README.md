@@ -157,7 +157,26 @@ Data analysis project focused on exploring employee data and extracting useful i
 </table>
 
 ---
+---
 
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Rajat-29104/Rajat-29104/output/github-snake-dark.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Rajat-29104/Rajat-29104/output/github-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
+
+</div>
 <!-- ======================= CONNECT ======================= -->
 
 ## 🌐 Let's Connect
