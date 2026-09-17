@@ -8,10 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Ideas+Into+Working+Projects;Exploring+Artificial+Intelligence+%26+Machine+Learning;Learning+Data+Science+One+Project+At+A+Time;Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Repeat" />
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Rajat-29104&label=PROFILE+VIEWS&color=302b63&style=for-the-badge" />
-
 </div>
 
 <br>
@@ -105,7 +101,7 @@ AI-powered civic empowerment & legal guidance platform.
 <br>
 
 <a href="https://nyayasetu-xtpc.onrender.com/">
-<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-58A6FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-58A6FF?style=for-the-badge"/>
 </a>
 
 </td>
@@ -162,31 +158,13 @@ Data analysis project focused on exploring employee data and extracting useful i
 
 ---
 
-<!-- ======================= GITHUB STATS ======================= -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rajat-29104&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat-29104&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Rajat-29104&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
 <!-- ======================= CONNECT ======================= -->
 
 ## 🌐 Let's Connect
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/rajat-tailor">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -208,7 +186,7 @@ Data analysis project focused on exploring employee data and extracting useful i
 
 ### 💭
 
-**"Build something. Learn something."**
+**"Build something. Break something. Learn something."**
 
 <br>
 
