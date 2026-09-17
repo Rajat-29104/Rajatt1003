@@ -1,40 +1,247 @@
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│              👋 HI, I'M RAJAT TAILOR                 │
-│                                                      │
-│       CSE STUDENT • DEVELOPER • AI/ML ENTHUSIAST    │
-│                                                      │
-│     ⚡ Building ideas → Projects → Solutions         │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
+<!-- ======================= HERO ======================= -->
 
-             ⌨️  Python | Java | C++ | SQL
-             
-       ─────────── ABOUT ME ───────────
+<div align="center">
 
-     🔭 Building AI/ML & software projects
-     🌱 Learning Data Science & Machine Learning
-     💡 Interested in practical problem solving
-     
-       ─────────── TECH STACK ──────────
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=RAJAT%20TAILOR&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=CSE%20STUDENT%20%7C%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descSize=18&descAlignY=62&descAlign=50" width="100%"/>
 
-       Python   Java   C++   SQL   Git
-       Pandas   NumPy  MySQL Jupyter
-   
-       ───────── FEATURED PROJECTS ─────
+<br>
 
-       ⚖️ NyayaSetu
-       🚌 Real-Time Bus Tracking
-       📚 Library Management
-       📊 Employee Analysis
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Ideas+Into+Working+Projects;Exploring+Artificial+Intelligence+%26+Machine+Learning;Learning+Data+Science+One+Project+At+A+Time;Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Repeat" />
 
-       ─────────── GITHUB ──────────────
+<br>
 
-              📊 Stats     🔥 Streak
-              Languages   Activity
+<img src="https://komarev.com/ghpvc/?username=Rajat-29104&label=PROFILE+VIEWS&color=302b63&style=for-the-badge" />
 
-       ─────────── CONNECT ─────────────
+</div>
 
-              LinkedIn • Email
+<br>
 
-                    🌊
+---
+
+<!-- ======================= ABOUT ======================= -->
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+I'm a Computer Science student who enjoys **building things, solving problems, and learning through hands-on development.**
+
+- 🔭 Building **AI/ML & software projects**
+- 🌱 Learning **Data Science, Machine Learning & DSA**
+- 💻 Working with **Python, Java, C/C++ & SQL**
+- 🗄️ Exploring **MySQL, SQLite & Data Analysis**
+- 🛠️ Using **Git, GitHub, VS Code & Jupyter**
+- ⚡ I learn best by **building and experimenting**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ======================= TECH ======================= -->
+
+## ⚡ Tech Arsenal
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+</p>
+
+### 🧠 Data & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,jupyter" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### 🛠️ Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,nodejs,html,css" />
+</p>
+
+---
+
+<!-- ======================= PROJECTS ======================= -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>⚖️ NyayaSetu</h3>
+
+AI-powered civic empowerment & legal guidance platform.
+
+<b>Features</b>
+
+- 📜 Rights Navigator
+- 🏛️ Scheme Eligibility
+- 📝 RTI Drafting
+- 📢 Complaint Guidance
+- ⚖️ Legal Guidance
+
+<b>Stack</b>
+
+`Java` `MySQL` `Node.js` `Gemini API`
+
+<br>
+
+<a href="https://nyayasetu-xtpc.onrender.com/">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-58A6FF?style=for-the-badge&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🚌 Real-Time Bus Tracking</h3>
+
+Smart transportation system designed for real-time bus tracking.
+
+<b>Features</b>
+
+- 📍 GPS Tracking
+- 📡 GSM Communication
+- 🚌 Real-Time Location
+- ⚡ Embedded System
+
+<b>Stack</b>
+
+`ESP32` `GPS` `SIM800L`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📚 Library Management System</h3>
+
+Desktop application for managing library operations.
+
+<b>Stack</b>
+
+`Java` `Swing` `JDBC` `SQLite`
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📊 Employee Performance Analysis</h3>
+
+Data analysis project focused on exploring employee data and extracting useful insights.
+
+<b>Stack</b>
+
+`Python` `Pandas` `NumPy` `Matplotlib`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ======================= GITHUB STATS ======================= -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rajat-29104&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat-29104&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Rajat-29104&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+<!-- ======================= ACTIVITY ======================= -->
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+<!-- ======================= CERTIFICATIONS ======================= -->
+
+## 🏆 Certifications
+
+<div align="center">
+
+| 🎓 Certification | 🏢 Platform |
+|:---|:---|
+| Data Structures & Algorithms | NPTEL |
+| Cloud Foundation Associate | Oracle |
+| C Programming | Infosys |
+| Career Edge | TCS iON |
+| C Programming | IIT Spoken Tutorial |
+
+</div>
+
+---
+
+<!-- ======================= CONNECT ======================= -->
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rajatt1003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rajat-29104">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### 💭
+
+**"Build something. Break something. Learn something."**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0c29,50:302b63,100:24243e&section=footer&animation=twinkling" width="100%"/>
+
+</div>
